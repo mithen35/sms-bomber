@@ -1,6 +1,6 @@
 #---------{ ADMIN INFO }----------
 # AUTHOR   :MR: BLACK HACKER MUIIN
-# TEAM     : cyber BLACK MUIIN
+# TEAM     : cyber BLACK MUIIN, 
 #-------------------------------- 
 
 import sys
